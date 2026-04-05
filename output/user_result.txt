@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-03 18:19:22,https://iptv.catvod.com/live.php?id=CCTV1&line=5$订阅源
+2026-04-05 18:14:13,https://iptv.catvod.com/live.php?id=CCTV1&line=5$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=5$订阅源
@@ -274,8 +274,8 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=8$订阅源
 河南卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&line=4$订阅源
 河南卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&line=5$订阅源
 河南卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&line=6$订阅源
-河南卫视,http://23.237.228.134/live6/henan.m3u8$订阅源
-河南卫视,http://111.56.90.5/000000000000/1000000002000027731/1.m3u8$订阅源
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$订阅源
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$订阅源
 吉林卫视,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&line=1$订阅源
 吉林卫视,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&line=2$订阅源
 吉林卫视,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&line=3$订阅源
@@ -408,4 +408,4 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=8$订阅源
 云南卫视,http://111.56.90.5/000000000000/1000000002000024694/1.m3u8$订阅源
 云南卫视,http://111.56.90.5/000000000000/5000000006000040019/1.m3u8$订阅源
 云南卫视,http://111.56.90.5/000000000000/5000000011000031120/1.m3u8$订阅源
-云南卫视,http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub$订阅源
+云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8$订阅源
