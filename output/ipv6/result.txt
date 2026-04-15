@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-13 18:38:32,https://www.freetv.top/migu/631780532.m3u8?migutoken=9bacb748dc772b1cfcddf6e6373e3319c6d82105f221862932e3b30a6dc4843c93ace2108ab1d598c2d89ef8eb4225888737ce5895be20612ea7753d025151b9a913bd6fc98ff7666da5979f1d$订阅源
+2026-04-15 18:33:59,https://www.freetv.top/migu/631780532.m3u8?migutoken=9bacb748dc772b1cfcddf6e6373e3319c6d82105f221862932e3b30a6dc4843c93ace2108ab1d598c2d89ef8eb4225888737ce5895be20612ea7753d025151b9a913bd6fc98ff7666da5979f1d$订阅源
 
 📺央视频道,#genre#
 CCTV-2,https://www.freetv.top/migu/631780532.m3u8?migutoken=9bacb748dc772b1cfcddf6e6373e3319c6d82105f221862932e3b30a6dc4843c93ace2108ab1d598c2d89ef8eb4225888737ce5895be20612ea7753d025151b9a913bd6fc98ff7666da5979f1d$订阅源
@@ -98,13 +98,13 @@ CCTV-12,https://iptv.catvod.com/live.php?id=CCTV-12$订阅源
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12&line=8$订阅源
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12&line=9$订阅源
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12&line=10$订阅源
-CCTV-13,https://cdn3.163189.xyz/163189/cctv13$订阅源
-CCTV-13,https://cdn3.163189.xyz/163189/cctv13$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13%E6%96%B0%E9%97%BB$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV-13%20%E6%96%B0%E9%97%BB$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=cctv13$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV-13$订阅源
+CCTV-13,https://cdn3.163189.xyz/163189/cctv13$订阅源
+CCTV-13,https://cdn3.163189.xyz/163189/cctv13$订阅源
 CCTV-13,http://www.freetv.top/migu/608807423.m3u8?migutoken=d8e7d5104925c13570533f5db2f808b4613be4d2901d3d406a67fca92ee219bc3692dff97d63d38123fde519465b77404b0a2c0c59bec5e83ad2be42019845acc7e59290159021d585352689cc$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14%E5%B0%91%E5%84%BF$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV-14%20%E5%B0%91%E5%84%BF$订阅源
