@@ -7,6 +7,7 @@ Bread TV面包台 (720p),https://video.bread-tv.com:8091/hls-live24/online/index
 BRTV Kaku Childrens Channel,http://49.113.179.174:4022/udp/238.125.2.216:5140
 BRTV Kaku Childrens Channel,http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
 BRTV Science & Education Channel,http://49.113.179.174:4022/udp/238.125.3.121:5140
+BRTV 北京卫视 (1080p),http://go.bkpcp.top/mg/bjws
 BRTV 北京卫视 [Not 24/7],http://ivi.bupt.edu.cn/hls/btv1.m3u8
 BRTV 北京卫视,http://118.81.195.79:9003/hls/20/index.m3u8
 CETV1 (576p),http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
@@ -244,4 +245,3 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 山东影视 (406p) [Geo-blocked],http://livealone302.iqilu.com/iqilu/yspd.m3u8
 山东新闻 (1080p) [Geo-blocked],http://livealone302.iqilu.com/iqilu/ggpd.m3u8
 山东生活 (1080p) [Geo-blocked],http://livealone302.iqilu.com/iqilu/shpd.m3u8
-山东综艺 (406p) [Geo-blocked],http://livealone302.iqilu.com/iqilu/zypd.m3u8
